@@ -8,9 +8,9 @@ StopHotkey=123
 StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
-MacroID=668ef642-6ec7-483f-b0dd-be810043f68c
-Description=交药水
-Enable=1
+MacroID=3c2a8b19-02c0-48b6-b342-b08c1e8970df
+Description=交巨匠药水
+Enable=0
 AutoRun=0
 [Repeat]
 Type=1
